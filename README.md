@@ -1,3 +1,3 @@
 # OpBExercises2
 
-Ejercicios Java Básico de OpenBootcamp.
+Ejercicios del curso Java Básico de OpenBootcamp.
